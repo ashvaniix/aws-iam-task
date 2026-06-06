@@ -1,0 +1,8 @@
+AWS IAM Notes
+
+1. IAM stands for Identity and Access Management.
+2. IAM controls access to AWS services.
+3. IAM users represent individual accounts.
+4. Groups help manage users together.
+5. Policies define permissions.
+6. IAM improves cloud security.
